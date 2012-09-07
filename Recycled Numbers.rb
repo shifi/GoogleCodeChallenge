@@ -1,3 +1,4 @@
+#http://code.google.com/codejam/contest/1460488/dashboard#s=p2
 def split_and_shift(number, size)
    $hash_num[number]=[]
    (1...size).each do |i|

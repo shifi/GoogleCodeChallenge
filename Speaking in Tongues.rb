@@ -1,3 +1,4 @@
+#http://code.google.com/codejam/contest/1460488/dashboard
 arr_str = File.readlines("A-small-practice.in")
 hash = Hash["y","a", "n","b", "f","c", "i","d", "c","e", "w","f", "l","g", "b","h", "k","i", "u","j", "o","k", "m","l", "x","m", "s","n", "e","o", "v","p", "z","q", "p","r", "d","s", "r","t", "j","u", "g","v", "t","w", "h","x", "a","y", "q","z"]
 
